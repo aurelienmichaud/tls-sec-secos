@@ -4,3 +4,13 @@
 
 ### Question 2
 
+Answer in tp.c
+
+### Question 3
+
+Reading and writing seem to be authorized everywhere. A fortiori there is no Segmentation fault, the reason being this mere OS does not process any memory barrier control.
+
+### Question 4
+
+Nothing special happens when we try to read/write out of the RAM's bounds for the same reason as Question 3.
+
